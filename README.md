@@ -2,7 +2,7 @@ Fuzzy Gazetteer results are not that friendly to use. Sometimes it would be nice
 
 Usage:
 
-1. Close this repository
+1. Clone this repository
 2. cd into the repository
 3. Run ```npm install``` (make you have node.js installed first)
 4. Copy the Fuzzy Gazetteer results to a text file, save it, and copy to full path to that file
